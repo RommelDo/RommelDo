@@ -14,13 +14,13 @@ Tools: Git/GitHub, Microsoft Office, Agile/Scrum, Ms Excell
 
 📜 Certifications
 
-IBM Data Analyst Professional Certificate
-Microsoft Azure AI-900
+=> IBM Data Analyst Professional Certificate
+=> Microsoft Azure AI-900
 
 
 📌 Projects
 
-🔹 [Project 1 — Title]: short description (1 line) → view repo
+🔹 **TTC Subway Delay Analysis**: Exploratory analysis of TTC subway delays (2024-2025) identifying the stations and causes responsible for the most disruption → [view repo](https://github.com/RommelDo/ttc-subway-delay-analysis)
 
 
 
